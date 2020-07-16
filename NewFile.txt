@@ -1,1 +1,2 @@
 Test New File.
+Try to directly push to test-fetch branch (after branch protection rule has been set and applied to master branch).
